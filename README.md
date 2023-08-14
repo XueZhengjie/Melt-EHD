@@ -22,7 +22,7 @@ conda activate Melt-EHD
 
 We have provided the processed data set in dataset/trian and dataset/test, and you can use them directly. And you can also use following steps to process your own data set.
 
-1) extract_data folder to create a new [number] folder as the current working condition of the main folder (mainDir), a new csv folder to save the next line of csv file (such as E:\t_map\extract_data\1\csv)
+1)extract_data folder to create a new [number] folder as the current working condition of the main folder (mainDir), a new csv folder to save the next line of csv file (such as E:\t_map\extract_data\1\csv)
 
 2)Extract video images. 
 Modify VIDEO_PATH and mainDir in dataset/preprocess/config.yaml.
