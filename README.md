@@ -1,5 +1,5 @@
-# Melt-EHD 3D printing liquid crystal elastomer cross-scale actuators and sensor
-This is the official implementation of [Melt-EHD 3D printing liquid crystal elastomer cross-scale actuators and sensor]
+# Melt electrowriting enabled 3D liquid crystal elastomer structures for cross-scale actuators and temperature field sensors 
+This is the official implementation of [Melt electrowriting enabled 3D liquid crystal elastomer structures for cross-scale actuators and temperature field sensors ]
 
 ## Installation
 
@@ -70,7 +70,7 @@ python AI_model.py --train False --load_model_path /where_to_load_model --result
 
 ## Citation
 
-Please cite [Melt-EHD 3D printing liquid crystal elastomer cross-scale actuators and sensor](https://github.com/XueZhengjie/Melt-EHD/) if you use it in your research
+Please cite [Melt electrowriting enabled 3D liquid crystal elastomer structures for cross-scale actuators and temperature field sensors](https://github.com/XueZhengjie/Melt-EHD/) if you use it in your research
 
 
 ## License
